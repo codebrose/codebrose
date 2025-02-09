@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @codebrose
-- 👀 I’m interested in ... Web and App Development
-- 🌱 I’m currently learning ... ML
-- 💞️ I’m looking to collaborate on ... Web App Projects
-- 📫 How to reach me ... email: codebrose10101@gmail.com
+# 👋 Hey, I'm @codebrose  
+
+### 🚀 Full Stack Developer | Crafting Solutions from Concept to Code  
+
+- 👀 Passionate about Web & App Development  
+- 💡 Open to collaborating on exciting Web App projects  
+- 📫 Reach me at **codebrose10101@gmail.com**  
+
+💻 Let's build something great together!  
+
 
 
